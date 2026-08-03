@@ -38,7 +38,7 @@ Users can enter two numbers, choose an operation, and instantly view the result.
 To run the project, you only need:
 
 ```text
-main.c
+calculator.exe
 ```
 
 ## Future Improvements
